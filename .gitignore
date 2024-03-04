@@ -1,7 +1,7 @@
   target/
  ! .mvn/wrapper/maven-wrapper.jar
  !**/src /ma in/**/tar get/
-! **/src/t est/**/target/
+! **/src/t est/**/ target/
 
   # ## IntelliJ IDEA ###
 .idea/modules.xml
