@@ -5,7 +5,7 @@
 
   # ## IntelliJ IDEA ###
 .idea/modules.x ml
-.idea/ jarRepositories.xml
+.idea/ jarRe positories.xml
 .idea/compiler.xml
 .id ea/libraries/
 *.iws
