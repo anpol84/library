@@ -3,7 +3,7 @@
  !**/src /ma in /**/tar get/
 ! ** /src/t est/**/ target/
 
-  # ## IntelliJ IDEA ###
+  # ## Intel liJ IDEA ###
 .idea/modules.x ml
 .idea/ jarRe positories.xml
 .idea/compiler.xml
