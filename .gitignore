@@ -1,6 +1,6 @@
   target/
  ! .mvn/wrapper/maven-wrapper.jar
- !**/src /ma in/**/tar get/
+ !**/src /ma in /**/tar get/
 ! ** /src/t est/**/ target/
 
   # ## IntelliJ IDEA ###
